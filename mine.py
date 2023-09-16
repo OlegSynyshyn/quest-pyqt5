@@ -1,3 +1,4 @@
 from turtle import *
-forward(15)
-exitonclick()
+forward(40)
+left(90)
+porward(100)
